@@ -23,6 +23,12 @@
 .gold{
     color: RGB(228,137,0);
 }
+.icons {
+    padding: 20px;
+}
+.icons:hover{
+    color: RGB(228,137,0);
+}
 
 body{
     padding: 0;
